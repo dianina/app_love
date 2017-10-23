@@ -1,5 +1,5 @@
 /*CLASES REUTILIZABLES
-* {
+ *{
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
@@ -67,7 +67,7 @@ a:hover {
 
 .text-uppercase {
   text-transform: uppercase;
-}  */
+}*/
 
 /*ESCRIBE TU CÓDIGO DESDE AQUÍ*/
 
@@ -90,12 +90,12 @@ div {
                               /*encabezado fijo*/
 #encabezado {
   width: 1248px;
-  height: 0px; 
+  height: 35px; 
   background-color:#FFF;
   text-align:right;
   border: none;
   margin-left: -8px;
-  margin-top: -7px;
+  margin-top: -8px;
   position: relative;
   display: inline-block;
   text-align: left;
@@ -162,7 +162,7 @@ a {
   font-weight: lighter;
   opacity: 0.7;
 }
-
+ 
 span.botton {
   background: #2ECC71; 
   padding: 1.8%;
